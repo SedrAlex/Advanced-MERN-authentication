@@ -37,7 +37,7 @@
     "has": "^1.0.3",
     "has-symbols": "^1.0.3",
     "http-errors": "^2.0.0",
-    "iconv-lite": "^0.6.3",
+    "iconv-lite": "^0.7.0",
     "inherits": "^2.0.4",
     "ip": "^2.0.0",
     "ipaddr.js": "^1.9.1",
