@@ -58,7 +58,7 @@
     "mquery": "^5.0.0",
     "ms": "^2.0.0",
     "negotiator": "^0.6.3",
-    "nodemailer": "^6.9.1",
+    "nodemailer": "^7.0.7",
     "nodemailer-express-handlebars": "^6.1.0",
     "object-assign": "^4.1.1",
     "object-inspect": "^1.12.3",
